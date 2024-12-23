@@ -3,7 +3,7 @@ name: IG Automation
 on:
   push:
     branches:
-      - mai
+      - main
 
 jobs:
   executar-contas:
